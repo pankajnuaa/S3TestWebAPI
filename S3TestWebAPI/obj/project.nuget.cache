@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0iRwP0uHJAzZv5xDsGbVyfxS4YqHCzQpnvjp/WS7aR6/7+axPfSbhKcCfR30Gmm0EkDaHfbTqyPVO4vXoqQ1dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\S3TestWebAPI\\S3TestWebAPI\\S3TestWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.core\\3.5.1.49\\awssdk.core.3.5.1.49.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.101\\awssdk.extensions.netcore.setup.3.3.101.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.s3\\3.5.6.5\\awssdk.s3.3.5.6.5.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
